@@ -4,6 +4,10 @@ h3 {
   color: rgb(51, 51, 51);
 }
 
+.img{
+width: 80%;
+}
+
 .container {
   padding: 0;
   margin: 0;
