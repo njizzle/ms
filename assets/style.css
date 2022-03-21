@@ -29,21 +29,22 @@ h3 {
   margin: 3% 10%;
 }
 
+.photobanner img {
+  margin: 0px 25px;
+  box-shadow: 2px 2px 8px #8a8a8a;
+  width: auto;
+
+
+}
+
 .photobanner {
-  position: relative;
+
+  /* position: relative; */
   height: 233px;
   margin-bottom: 30px;
   display: flex;
   width: auto;
 }
-
-.photobanner img {
-  margin: 0px 25px;
-  box-shadow: 2px 2px 8px #8a8a8a;
-  width: auto;
-  height: auto;
-}
-
 .photobanner {
   animation: bannermove 50s linear infinite alternate-reverse;
 }
