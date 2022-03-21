@@ -24,9 +24,9 @@ h3 {
 }
 
 .wrapper {
-  width: 100%;
+  width: 80%;
   overflow: hidden;
-  margin: 5% 0%;
+  margin: 3% 10%;
 }
 
 .photobanner {
@@ -34,13 +34,14 @@ h3 {
   height: 233px;
   margin-bottom: 30px;
   display: flex;
-  width: 100%;
+  width: auto;
 }
 
 .photobanner img {
   margin: 0px 25px;
   box-shadow: 2px 2px 8px #8a8a8a;
-	width: auto;
+  width: auto;
+  height: auto;
 }
 
 .photobanner {
